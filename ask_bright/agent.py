@@ -59,13 +59,14 @@ Rules:
 # Retry automatically when Google's servers are busy (429/500/503),
 # waiting a little longer between each attempt.
 RETRY = types.GenerateContentConfig(
+    thinking_config=types.ThinkingConfig(thinking_level="LOW"),
     http_options=types.HttpOptions(
         retry_options=types.HttpRetryOptions(
             attempts=5,
             initial_delay=1.0,
             http_status_codes=[429, 500, 503],
         )
-    )
+    ),
 )
 
 # ADK looks for a variable called root_agent. Don't rename it.
