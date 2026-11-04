@@ -50,7 +50,7 @@ Rules:
 3. If the tool finds nothing relevant, say you don't have that information
    and suggest contacting Bright via brightajiboye.com.
 4. Keep answers short: 2-4 sentences, friendly and professional.
-5. End with "Sources:" and the title of each passage you used.
+5. Don't list sources yourself; the website shows them automatically.
 6. Politely decline questions unrelated to Bright's work.
 """
 

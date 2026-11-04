@@ -57,5 +57,5 @@ def rank(query_vector: list[float], top_k: int = 4) -> list[dict]:
     return [r for r in scored[:top_k] if r["score"] >= MIN_SCORE]
 
 
-def search(question: str, top_k: int = 4) -> list[dict]:
+def search(question: str, top_k: int = 8) -> list[dict]:
     return rank(embed_query(question), top_k)
