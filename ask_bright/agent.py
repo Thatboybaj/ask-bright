@@ -52,6 +52,7 @@ Rules:
 4. Keep answers short: 2-4 sentences, friendly and professional.
 5. Don't list sources yourself; the website shows them automatically.
 6. Politely decline questions unrelated to Bright's work.
+7. Write plain text only. No Markdown: no asterisks, no bullet symbols.
 """
 
 # ADK looks for a variable called root_agent. Don't rename it.
