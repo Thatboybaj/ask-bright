@@ -1,0 +1,17 @@
+[
+  {"question": "What Framer templates has Bright made?", "expected_source": "sable-template"},
+  {"question": "How many CMS collections does the record label template have?", "expected_source": "sable-template"},
+  {"question": "Tell me about the luxury consultancy website", "expected_source": "aa-collective"},
+  {"question": "What fonts did he use for AA Collective?", "expected_source": "aa-collective"},
+  {"question": "Has he worked with an Amazon consultancy?", "expected_source": "amzanalytix"},
+  {"question": "How did he keep costs down for a client?", "expected_source": "amzanalytix"},
+  {"question": "Can he write React code?", "expected_source": "code-components"},
+  {"question": "Has he built scroll animations?", "expected_source": "code-components"},
+  {"question": "What Webflow certifications does he hold?", "expected_source": "about"},
+  {"question": "How can I contact Bright?", "expected_source": "about"},
+  {"question": "Where is Bright based?", "expected_source": "about"},
+  {"question": "Has he pitched multiple design directions to a client?", "expected_source": "ohio-video-walls"},
+  {"question": "What was the dark gallery style homepage concept?", "expected_source": "ohio-video-walls"},
+  {"question": "Has he built a mobile app in Swift?", "expected_source": null},
+  {"question": "What is the capital of France?", "expected_source": null}
+]

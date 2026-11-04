@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ask Bright</title>
+<style>
+  :root { --bg:#f6f5f2; --card:#fff; --ink:#141414; --muted:#6b6b6b; --line:#e4e2dc; --accent:#141414; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#0f0f0f; --card:#1a1a1a; --ink:#f2f2f2; --muted:#9a9a9a; --line:#2a2a2a; --accent:#f2f2f2; } }
+  * { box-sizing:border-box; }
+  body { margin:0; font:15px/1.5 system-ui, -apple-system, sans-serif; background:var(--bg); color:var(--ink);
+         display:flex; justify-content:center; padding:24px 16px; min-height:100vh; }
+  .chat { width:100%; max-width:560px; background:var(--card); border:1px solid var(--line); border-radius:16px;
+          display:flex; flex-direction:column; height:min(720px, calc(100vh - 48px)); }
+  header { padding:16px 20px; border-bottom:1px solid var(--line); }
+  header h1 { margin:0; font-size:16px; } header p { margin:2px 0 0; color:var(--muted); font-size:13px; }
+  #log { flex:1; overflow-y:auto; padding:20px; display:flex; flex-direction:column; gap:12px; }
+  .msg { max-width:85%; padding:10px 14px; border-radius:14px; white-space:pre-wrap; }
+  .user { align-self:flex-end; background:var(--accent); color:var(--card); }
+  .bot { align-self:flex-start; border:1px solid var(--line); }
+  .sources { margin-top:8px; font-size:12px; color:var(--muted); }
+  .sources a { color:inherit; }
+  .chips { display:flex; flex-wrap:wrap; gap:8px; padding:0 20px 12px; }
+  .chips button { border:1px solid var(--line); background:none; color:var(--ink); border-radius:999px; padding:6px 12px; font:inherit; font-size:13px; cursor:pointer; }
+  form { display:flex; gap:8px; padding:12px; border-top:1px solid var(--line); }
+  input { flex:1; padding:10px 12px; border:1px solid var(--line); border-radius:10px; background:none; color:var(--ink); font:inherit; }
+  form button { padding:10px 16px; border:0; border-radius:10px; background:var(--accent); color:var(--card); font:inherit; cursor:pointer; }
+  .typing { color:var(--muted); font-style:italic; }
+</style>
+</head>
+<body>
+<div class="chat">
+  <header><h1>Ask Bright</h1><p>Ask about my projects, skills and services.</p></header>
+  <div id="log"></div>
+  <div class="chips" id="chips">
+    <button>What Framer work has Bright done?</button>
+    <button>Does he build custom code components?</button>
+    <button>What certifications does he have?</button>
+  </div>
+  <form id="form">
+    <input id="input" placeholder="Type a question..." autocomplete="off" required>
+    <button type="submit">Send</button>
+  </form>
+</div>
+<script>
+  // Leave empty when this page is served by the same Vercel app.
+  // From Framer, set it to your Vercel URL, e.g. "https://ask-bright.vercel.app"
+  const API_BASE = "";
+  let sessionId = null;
+  const log = document.getElementById("log");
+
+  function add(text, who, sources) {
+    const el = document.createElement("div");
+    el.className = "msg " + who;
+    el.textContent = text;
+    if (sources && sources.length) {
+      const s = document.createElement("div");
+      s.className = "sources";
+      s.append("Sources: ");
+      sources.forEach((src, i) => {
+        const a = document.createElement("a");
+        a.href = src.url || "#"; a.target = "_blank"; a.textContent = src.title;
+        s.append(a); if (i < sources.length - 1) s.append(" · ");
+      });
+      el.append(s);
+    }
+    log.append(el); log.scrollTop = log.scrollHeight;
+    return el;
+  }
+
+  async function ask(question) {
+    add(question, "user");
+    const typing = add("Thinking...", "bot typing");
+    try {
+      const res = await fetch(API_BASE + "/api/chat", {
+        method: "POST", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message: question, session_id: sessionId })
+      });
+      const data = await res.json();
+      typing.remove();
+      if (!res.ok) throw new Error(data.detail || "Request failed");
+      sessionId = data.session_id;
+      add(data.answer, "bot", data.sources);
+    } catch (err) {
+      typing.remove();
+      add("Sorry, something went wrong: " + err.message, "bot");
+    }
+  }
+
+  document.getElementById("form").addEventListener("submit", e => {
+    e.preventDefault();
+    const input = document.getElementById("input");
+    const q = input.value.trim(); if (!q) return;
+    input.value = ""; ask(q);
+  });
+  document.querySelectorAll("#chips button").forEach(b =>
+    b.addEventListener("click", () => { document.getElementById("chips").remove(); ask(b.textContent); }));
+</script>
+</body>
+</html>
