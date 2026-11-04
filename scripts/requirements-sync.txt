@@ -1,0 +1,6 @@
+# Only needed for syncing from the website (GitHub Action / your laptop).
+# Kept separate so the Vercel app stays small.
+google-genai>=2.34
+python-dotenv
+beautifulsoup4
+certifi

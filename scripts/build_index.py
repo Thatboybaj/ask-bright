@@ -25,6 +25,7 @@ ROOT = Path(__file__).resolve().parent.parent
 KNOWLEDGE_DIR = ROOT / "knowledge"
 INDEX_FILE = ROOT / "index.json"
 EMBED_MODEL = os.getenv("EMBED_MODEL", "gemini-embedding-001")
+BATCH_SIZE = 50
 
 
 def read_front_matter(text: str) -> tuple[dict, str]:
@@ -56,7 +57,8 @@ def main() -> None:
     client = genai.Client()  # uses GOOGLE_API_KEY automatically
     records = []
 
-    for path in sorted(KNOWLEDGE_DIR.glob("*.md")):
+    # rglob = also look inside subfolders, like knowledge/site/
+    for path in sorted(KNOWLEDGE_DIR.rglob("*.md")):
         meta, body = read_front_matter(path.read_text(encoding="utf-8"))
         title = meta.get("title", path.stem)
         for i, chunk in enumerate(split_into_chunks(body)):
@@ -70,13 +72,16 @@ def main() -> None:
             })
 
     print(f"Embedding {len(records)} chunks from {KNOWLEDGE_DIR.name}/ ...")
-    result = client.models.embed_content(
-        model=EMBED_MODEL,
-        contents=[r["text"] for r in records],
-        config=types.EmbedContentConfig(task_type="RETRIEVAL_DOCUMENT"),
-    )
-    for record, emb in zip(records, result.embeddings):
-        record["embedding"] = emb.values
+    # Send in batches: the API limits how many texts one request can hold
+    for start in range(0, len(records), BATCH_SIZE):
+        batch = records[start:start + BATCH_SIZE]
+        result = client.models.embed_content(
+            model=EMBED_MODEL,
+            contents=[r["text"] for r in batch],
+            config=types.EmbedContentConfig(task_type="RETRIEVAL_DOCUMENT"),
+        )
+        for record, emb in zip(batch, result.embeddings):
+            record["embedding"] = emb.values
 
     INDEX_FILE.write_text(json.dumps(records), encoding="utf-8")
     print(f"Saved {INDEX_FILE.name} ({len(records)} chunks)")
