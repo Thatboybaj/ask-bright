@@ -7,8 +7,6 @@ url: https://brightajiboye.com/work/scv
 
 Redesign Concept
 
-'26
-
 Johannes Röhrenbach
 
 Art direction, Web design
@@ -114,10 +112,6 @@ Respect for each association’s independence and existing design
 The new structure transforms SCV’s association pages into a clean, modern overview hub, making it easier for visitors to understand the network and navigate to official association websites — all while keeping SCV’s branding cohesive and professional.
 
 A clear overview hub with a unified SCV identity and a scalable template, respecting each association's independence while making the network easier to navigate.
-
-Read full casestudy
-
-Previous project
 
 Arlow
 

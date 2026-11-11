@@ -7,15 +7,9 @@ url: https://brightajiboye.com/work/c-black
 
 Landing Pages
 
-'26
-
 Christina Black
 
-Web design & dev
-
 A scalable Framer landing page system for a luxury brand consultancy, built to sit seamlessly alongside its Squarespace site.
-
-Live website
 
 © C.Black
 
@@ -100,8 +94,6 @@ Component Architecture
 Performance Optimization
 
 9 premium landing pages that feel like one site with Squarespace, plus a reusable component library that gives enterprise clients a stronger path to inquiry.
-
-Previous project
 
 Sesvenna
 

@@ -7,8 +7,6 @@ url: https://brightajiboye.com/work/tenuta-palmeri
 
 Winery Concept
 
-'26
-
 Johannes Röhrenbach
 
 Art direction, Web design
@@ -116,10 +114,6 @@ The client was pleased with the clarity, responsiveness, and usability of the sy
 “Thanks for the final refinements — the updates look good and the concept is now in a strong place for the proposal. You’ve provided great value and it was a great pleasure working with you.”
 
 A cohesive cross-estate design system and distinctive art direction, now used in a formal proposal to secure the full project.
-
-Read full casestudy
-
-Previous project
 
 Stella Talverdi
 

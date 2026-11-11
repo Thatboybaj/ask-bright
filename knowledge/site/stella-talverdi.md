@@ -7,13 +7,7 @@ url: https://brightajiboye.com/work/stella-talverdi
 
 Writer Platform
 
-'26
-
-Web design & dev
-
 A permanent digital archive for a writer and systems thinker, housing 75 essays behind a custom email gate.
-
-Live website
 
 © Stella Talverdi
 
@@ -74,8 +68,6 @@ Where a tool couldn't deliver what was specified, it was replaced with one that 
 75 essay pages. 14 AI crawlers blocked. One system that works exactly as specified.
 
 Full scope delivered on budget in two weeks: 75 essay pages, a custom email gate, bypass URLs and 14 AI crawlers blocked, all manageable without a developer.
-
-Previous project
 
 C.Black
 

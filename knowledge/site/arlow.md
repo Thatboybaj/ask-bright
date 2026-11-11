@@ -7,8 +7,6 @@ url: https://brightajiboye.com/work/arlow
 
 Furniture Brand
 
-'26
-
 Concept
 
 Web design
@@ -116,10 +114,6 @@ Typography and color strategy
 Content and narrative direction
 
 Arlow reads as a thoughtful studio rather than a retail platform, proving a minimal, well-structured interface can still carry depth and brand identity.
-
-Read full casestudy
-
-Previous project
 
 Tenuta Palmeri
 
