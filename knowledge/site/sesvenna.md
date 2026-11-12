@@ -7,8 +7,6 @@ url: https://brightajiboye.com/work/sesvenna
 
 Architecture Studio
 
-'26
-
 Framer Marketplace
 
 Web design & dev
@@ -126,10 +124,6 @@ Live preview site and marketplace listing
 Outcome
 
 An 11-page premium template with a 30+ field project CMS, an altitude-sorted work index and four custom code components, published on the Framer Marketplace.
-
-Read full casestudy
-
-Previous project
 
 Sable Records
 

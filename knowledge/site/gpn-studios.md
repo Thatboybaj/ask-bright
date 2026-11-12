@@ -127,10 +127,6 @@ Outcome
 
 A premium brand presence with a smoother booking flow, clearer studio navigation and stronger trust through testimonials and real-space visuals.
 
-Read full casestudy
-
-Previous project
-
 GPN Beat Store
 
 Noah Elliot

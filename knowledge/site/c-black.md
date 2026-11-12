@@ -7,8 +7,6 @@ url: https://brightajiboye.com/work/c-black
 
 Landing Pages
 
-'26
-
 Christina Black
 
 Web design & dev
@@ -100,8 +98,6 @@ Component Architecture
 Performance Optimization
 
 9 premium landing pages that feel like one site with Squarespace, plus a reusable component library that gives enterprise clients a stronger path to inquiry.
-
-Previous project
 
 Sesvenna
 

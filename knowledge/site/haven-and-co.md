@@ -7,8 +7,6 @@ url: https://brightajiboye.com/work/haven-and-co
 
 Luxury Real Estate
 
-'26
-
 Concept
 
 Web design & dev
@@ -166,10 +164,6 @@ It communicates stability, restraint, and long-term value in an industry often d
 Outcome
 
 Immediate credibility with buyers and investors, a scalable digital foundation for growth, and a marketplace-ready Framer template.
-
-Read full casestudy
-
-Previous project
 
 Alex Laurent
 

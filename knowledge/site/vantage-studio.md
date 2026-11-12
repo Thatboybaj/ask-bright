@@ -7,8 +7,6 @@ url: https://brightajiboye.com/work/vantage-studio
 
 Design Agency
 
-'26
-
 Concept
 
 Web design & dev
@@ -198,10 +196,6 @@ Figma, Framer, Jitter
 Outcome
 
 A premium site that communicates positioning within seconds, guides visitors toward inquiries and scales easily with new case studies.
-
-Read full casestudy
-
-Previous project
 
 SCV
 

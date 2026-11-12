@@ -7,8 +7,6 @@ url: https://brightajiboye.com/work/sable-records
 
 Record Label
 
-'26
-
 Framer Marketplace
 
 Web design & dev
@@ -122,7 +120,5 @@ Live preview site and marketplace listing
 Outcome
 
 An 8-page premium template with 4 linked CMS collections, Side A / Side B tracklists and custom scroll effects, published on the Framer Marketplace.
-
-Read full casestudy
 
 Sesvenna
