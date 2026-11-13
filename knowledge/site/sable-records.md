@@ -9,11 +9,7 @@ Record Label
 
 Framer Marketplace
 
-Web design & dev
-
 A dark, editorial Framer template for independent record labels, where one CMS entry powers a release across the homepage, catalogue, artist discography and its own detail page.
-
-Live website
 
 © Sable Records
 
@@ -116,8 +112,6 @@ Custom scroll and hover effects
 Responsive layouts
 
 Live preview site and marketplace listing
-
-Outcome
 
 An 8-page premium template with 4 linked CMS collections, Side A / Side B tracklists and custom scroll effects, published on the Framer Marketplace.
 

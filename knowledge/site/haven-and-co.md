@@ -9,11 +9,7 @@ Luxury Real Estate
 
 Concept
 
-Web design & dev
-
 A premium, fully responsive Framer website positioning a luxury real estate brand with clarity and investment focus.
-
-Live website
 
 © Haven & Co.
 
@@ -160,8 +156,6 @@ Framer template development
 Haven & Co. is not just a website — it’s a positioning tool.
 
 It communicates stability, restraint, and long-term value in an industry often dominated by noise.
-
-Outcome
 
 Immediate credibility with buyers and investors, a scalable digital foundation for growth, and a marketplace-ready Framer template.
 

@@ -9,11 +9,7 @@ Personal Portfolio
 
 Concept
 
-Web design & dev
-
 A minimal portfolio built on clarity, structure and bold typography, letting intentional work speak with confidence.
-
-Live website
 
 © Alex Laurent
 
@@ -178,8 +174,6 @@ Context
 Challenge
 
 Process
-
-Outcome
 
 Visual system breakdown
 
