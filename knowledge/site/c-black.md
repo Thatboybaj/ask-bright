@@ -7,15 +7,7 @@ url: https://brightajiboye.com/work/c-black
 
 Landing Pages
 
-Year
-
-'26
-
-Client
-
 Christina Black
-
-Role
 
 Web design & dev
 
@@ -24,8 +16,6 @@ A scalable Framer landing page system for a luxury brand consultancy, built to s
 Live website
 
 © C.Black
-
-Full case study
 
 ## Overview
 
@@ -109,10 +99,6 @@ Performance Optimization
 
 9 premium landing pages that feel like one site with Squarespace, plus a reusable component library that gives enterprise clients a stronger path to inquiry.
 
-Previous project
-
 Sesvenna
-
-Next project
 
 Stella Talverdi

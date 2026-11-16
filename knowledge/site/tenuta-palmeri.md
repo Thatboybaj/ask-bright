@@ -7,15 +7,7 @@ url: https://brightajiboye.com/work/tenuta-palmeri
 
 Winery Concept
 
-Year
-
-'26
-
-Client
-
 Johannes Röhrenbach
-
-Role
 
 Art direction, Web design
 
@@ -24,8 +16,6 @@ A website concept and cross-estate digital system for a Sicilian wine estate wit
 View on Contra
 
 © Tenuta Palmeri
-
-Full case study
 
 ## Overview
 
@@ -127,10 +117,6 @@ A cohesive cross-estate design system and distinctive art direction, now used in
 
 Read full casestudy
 
-Previous project
-
 Stella Talverdi
-
-Next project
 
 Arlow

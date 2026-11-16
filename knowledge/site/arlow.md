@@ -7,15 +7,7 @@ url: https://brightajiboye.com/work/arlow
 
 Furniture Brand
 
-Year
-
-'26
-
-Client
-
 Concept
-
-Role
 
 Web design
 
@@ -24,8 +16,6 @@ A restrained, editorial website concept for a modern furniture studio that value
 View design
 
 © Arlow
-
-Full case study
 
 ## Overview
 
@@ -127,10 +117,6 @@ Arlow reads as a thoughtful studio rather than a retail platform, proving a mini
 
 Read full casestudy
 
-Previous project
-
 Tenuta Palmeri
-
-Next project
 
 SCV

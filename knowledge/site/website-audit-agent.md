@@ -7,15 +7,7 @@ url: https://brightajiboye.com/work/website-audit-agent
 
 AI Website Audit Tool
 
-Year
-
-'26
-
-Client
-
 Personal product
-
-Role
 
 AI engineering & design
 
@@ -24,8 +16,6 @@ An agent that audits any website across 10 core areas, scores it out of 100 and 
 View on GitHub
 
 © Website Audit Agent
-
-Full case study
 
 ## Overview
 
@@ -79,10 +69,6 @@ A Python agent with a web app, an HTML and PDF report, and Markdown and JSON out
 
 Read full casestudy
 
-Previous project
-
 Ask Bright
-
-Next project
 
 Sable Records

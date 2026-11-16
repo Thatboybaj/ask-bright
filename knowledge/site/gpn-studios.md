@@ -7,13 +7,7 @@ url: https://brightajiboye.com/work/gpn-studios
 
 Creative Studio
 
-Year
-
 '25
-
-Client
-
-Role
 
 Web design & dev
 
@@ -22,8 +16,6 @@ A premium, conversion-focused website for a photo, podcast and music studio, mak
 Live website
 
 © GPN Studios
-
-Full case study
 
 “A boutique photography and podcast studio designed for creators who value quality and ease. Rent our fully equipped spaces by the hour or day — no distractions, just room to create.”
 
@@ -137,10 +129,6 @@ A premium brand presence with a smoother booking flow, clearer studio navigation
 
 Read full casestudy
 
-Previous project
-
 GPN Beat Store
-
-Next project
 
 Noah Elliot

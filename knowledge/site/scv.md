@@ -7,15 +7,7 @@ url: https://brightajiboye.com/work/scv
 
 Redesign Concept
 
-Year
-
-'26
-
-Client
-
 Johannes Röhrenbach
-
-Role
 
 Art direction, Web design
 
@@ -24,8 +16,6 @@ A cohesive overview system for the Swiss Choral Association's network of indepen
 View on Contra
 
 © SCV
-
-Full case study
 
 ## Project Context
 
@@ -125,10 +115,6 @@ A clear overview hub with a unified SCV identity and a scalable template, respec
 
 Read full casestudy
 
-Previous project
-
 Arlow
-
-Next project
 
 Vantage Studio
