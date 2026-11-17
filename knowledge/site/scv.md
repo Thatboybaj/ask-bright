@@ -113,8 +113,6 @@ The new structure transforms SCV’s association pages into a clean, modern over
 
 A clear overview hub with a unified SCV identity and a scalable template, respecting each association's independence while making the network easier to navigate.
 
-Read full casestudy
-
 Arlow
 
 Vantage Studio

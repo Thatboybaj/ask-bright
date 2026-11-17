@@ -115,8 +115,6 @@ The client was pleased with the clarity, responsiveness, and usability of the sy
 
 A cohesive cross-estate design system and distinctive art direction, now used in a formal proposal to secure the full project.
 
-Read full casestudy
-
 Stella Talverdi
 
 Arlow

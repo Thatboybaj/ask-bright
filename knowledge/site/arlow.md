@@ -115,8 +115,6 @@ Content and narrative direction
 
 Arlow reads as a thoughtful studio rather than a retail platform, proving a minimal, well-structured interface can still carry depth and brand identity.
 
-Read full casestudy
-
 Tenuta Palmeri
 
 SCV
