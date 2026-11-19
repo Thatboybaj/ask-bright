@@ -11,6 +11,8 @@ Music Studio
 
 GPN Studios
 
+Web design & dev
+
 A conversion-focused website and beat store for a music production studio, with e-commerce built into Framer.
 
 View on Contra

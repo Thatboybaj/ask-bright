@@ -9,7 +9,11 @@ Creative Studio
 
 '25
 
+Web design & dev
+
 A premium, conversion-focused website for a photo, podcast and music studio, making booking effortless for creators.
+
+Live website
 
 © GPN Studios
 
@@ -118,6 +122,8 @@ Light SEO setup
 ## Project Role
 
 Full Website Strategy, UX/UI Design, Development & Launch
+
+Outcome
 
 A premium brand presence with a smoother booking flow, clearer studio navigation and stronger trust through testimonials and real-space visuals.
 

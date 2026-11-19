@@ -11,7 +11,11 @@ Personal Portfolio
 
 Concept
 
+Web design & dev
+
 A personal portfolio website communicating design philosophy, services and selected work.
+
+Live website
 
 © Noah Elliot
 
