@@ -15,8 +15,6 @@ Webflow development
 
 A Webflow website for a company turning hard-to-recycle plastic into clean hydrogen and high-performance carbon.
 
-Live website
-
 © Pyratech
 
 ## About
@@ -46,8 +44,6 @@ Knowing that accessibility across devices was crucial, I ensured that the websit
 ## The Result
 
 The result was a dynamic and visually captivating website that transforms the way industries perceive plastic waste recycling, bridging the gap between tradition and modernity. This project exemplifies my commitment to creating website solutions that meet and exceed the unique objectives of my clients.
-
-Outcome
 
 A dynamic, visually captivating website that changes how industries perceive plastic recycling, bridging tradition and modernity.
 
