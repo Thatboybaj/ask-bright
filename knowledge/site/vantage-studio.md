@@ -9,9 +9,15 @@ Design Agency
 
 Concept
 
+Web design & dev
+
 A bold, elegant website for a design studio, built to communicate value clearly and convert high-quality clients.
 
+Live website
+
 © Vantage Studio
+
+Full case study
 
 ## Overview
 
@@ -188,6 +194,8 @@ Clarity converts better than complexity.
 ## Tools
 
 Figma, Framer, Jitter
+
+Outcome
 
 A premium site that communicates positioning within seconds, guides visitors toward inquiries and scales easily with new case studies.
 

@@ -17,6 +17,8 @@ View on GitHub
 
 © Website Audit Agent
 
+Full case study
+
 ## Overview
 
 Paste a URL and the agent crawls the site, runs checks across 10 areas, scores it and writes the report. It is built for freelancers and agencies who want to open a conversation with a prospect using real findings.
@@ -62,6 +64,8 @@ Each check passes, warns or fails, weighted by impact. The weighted results roll
 ## Report and app
 
 The report follows a cheat-sheet layout with the score, an executive summary, how visitors see the site, all 10 areas and a prioritised action plan. It exports to PDF. The web app on Vercel keeps an audit history and has a daily limit for demo visitors.
+
+Outcome
 
 A Python agent with a web app, an HTML and PDF report, and Markdown and JSON outputs for automations. Every finding comes with a fix, its impact and the effort it takes.
 
