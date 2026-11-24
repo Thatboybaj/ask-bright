@@ -17,8 +17,6 @@ Try it live
 
 © Ask Bright
 
-Full case study
-
 ## Overview
 
 Ask Bright lets visitors ask questions about my projects, skills and services. Every answer is drawn from my real project write-ups, with links to the sources it used.
@@ -48,8 +46,6 @@ An eval script runs 15 test questions and checks whether retrieval returns the r
 ## Stack
 
 Python, Google ADK, Gemini, FastAPI and Vercel, with a Framer code component for the embedded chat.
-
-Outcome
 
 A RAG agent that answers from my case studies, links the sources it used, and says so when the answer isn’t in my work. It runs as a FastAPI app on Vercel and can be embedded in Framer.
 

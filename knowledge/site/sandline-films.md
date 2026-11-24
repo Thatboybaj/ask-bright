@@ -13,11 +13,7 @@ Brand, Web design, Development, Motion
 
 A concept film agency in Doha that shoots brand, tourism and documentary work across Qatar. I wrote the brief, designed the brand and built the site in English and Arabic, with films managed in a headless CMS.
 
-Live website
-
 © Sandline Films
-
-Full case study
 
 ## Overview
 

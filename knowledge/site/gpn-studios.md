@@ -13,11 +13,7 @@ Web design & dev
 
 A premium, conversion-focused website for a photo, podcast and music studio, making booking effortless for creators.
 
-Live website
-
 © GPN Studios
-
-Full case study
 
 “A boutique photography and podcast studio designed for creators who value quality and ease. Rent our fully equipped spaces by the hour or day — no distractions, just room to create.”
 
@@ -124,8 +120,6 @@ Light SEO setup
 ## Project Role
 
 Full Website Strategy, UX/UI Design, Development & Launch
-
-Outcome
 
 A premium brand presence with a smoother booking flow, clearer studio navigation and stronger trust through testimonials and real-space visuals.
 

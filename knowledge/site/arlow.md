@@ -17,8 +17,6 @@ View design
 
 © Arlow
 
-Full case study
-
 ## Overview
 
 Arlow is a conceptual furniture brand created to explore how restraint, material honesty, and architectural clarity can shape a digital experience. The project focuses on designing a calm, editorial website for a modern furniture studio that values permanence over trend.

@@ -17,8 +17,6 @@ View on Contra
 
 © SCV
 
-Full case study
-
 ## Project Context
 
 The Swiss Choral Association (SCV) manages a large network of regional choir associations across Switzerland. Each member association operates independently, with its own branding, website, and communication style. SCV’s current website structure does not reflect this clearly, and many associations are not open to redesigning or adjusting their own websites.

@@ -11,8 +11,6 @@ Web design & dev
 
 A permanent digital archive for a writer and systems thinker, housing 75 essays behind a custom email gate.
 
-Live website
-
 © Stella Talverdi
 
 ## Overview
