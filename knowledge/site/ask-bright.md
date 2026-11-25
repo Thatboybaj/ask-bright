@@ -1,5 +1,5 @@
 ---
-title: Ask Bright
+title: Ask Bright  Case Study | Bright Ajiboye
 url: https://brightajiboye.com/work/ask-bright
 ---
 
@@ -7,7 +7,15 @@ url: https://brightajiboye.com/work/ask-bright
 
 AI Portfolio Assistant
 
+Year
+
+'26
+
+Client
+
 Personal project
+
+Role
 
 AI engineering & design
 
@@ -16,6 +24,8 @@ An AI assistant that answers questions about my work, grounded only in my own ca
 Try it live
 
 © Ask Bright
+
+Full case study
 
 ## Overview
 
@@ -47,8 +57,16 @@ An eval script runs 15 test questions and checks whether retrieval returns the r
 
 Python, Google ADK, Gemini, FastAPI and Vercel, with a Framer code component for the embedded chat.
 
+Outcome
+
 A RAG agent that answers from my case studies, links the sources it used, and says so when the answer isn’t in my work. It runs as a FastAPI app on Vercel and can be embedded in Framer.
 
-Lentisca
+Read full casestudy
+
+Previous project
 
 Website Audit Agent
+
+Next project
+
+Sable Records

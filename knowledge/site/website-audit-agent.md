@@ -1,5 +1,5 @@
 ---
-title: Website Audit Agent
+title: Website Audit Agent  Case Study | Bright Ajiboye
 url: https://brightajiboye.com/work/website-audit-agent
 ---
 
@@ -7,15 +7,23 @@ url: https://brightajiboye.com/work/website-audit-agent
 
 AI Website Audit Tool
 
+Year
+
+'26
+
+Client
+
 Personal product
+
+Role
 
 AI engineering & design
 
 An agent that audits any website across 10 core areas, scores it out of 100 and returns a prioritised action plan, quick wins, an executive summary and a ready-to-send outreach email.
 
-View on GitHub
-
 © Website Audit Agent
+
+Full case study
 
 ## Overview
 
@@ -63,8 +71,16 @@ Each check passes, warns or fails, weighted by impact. The weighted results roll
 
 The report follows a cheat-sheet layout with the score, an executive summary, how visitors see the site, all 10 areas and a prioritised action plan. It exports to PDF. The web app on Vercel keeps an audit history and has a daily limit for demo visitors.
 
+Outcome
+
 A Python agent with a web app, an HTML and PDF report, and Markdown and JSON outputs for automations. Every finding comes with a fix, its impact and the effort it takes.
 
-Ask Bright
+Read full casestudy
 
-Sable Records
+Previous project
+
+Lentisca
+
+Next project
+
+Ask Bright

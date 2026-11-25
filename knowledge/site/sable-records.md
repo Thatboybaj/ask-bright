@@ -1,5 +1,5 @@
 ---
-title: Sable Records
+title: Sable Records  Case Study | Bright Ajiboye
 url: https://brightajiboye.com/work/sable-records
 ---
 
@@ -7,13 +7,25 @@ url: https://brightajiboye.com/work/sable-records
 
 Record Label
 
+Year
+
+'26
+
+Client
+
 Framer Marketplace
+
+Role
 
 Web design & dev
 
 A dark, editorial Framer template for independent record labels, where one CMS entry powers a release across the homepage, catalogue, artist discography and its own detail page.
 
+Live website
+
 © Sable Records
+
+Full case study
 
 ## Overview
 
@@ -115,8 +127,16 @@ Responsive layouts
 
 Live preview site and marketplace listing
 
+Outcome
+
 An 8-page premium template with 4 linked CMS collections, Side A / Side B tracklists and custom scroll effects, published on the Framer Marketplace.
 
-Website Audit Agent
+Read full casestudy
+
+Previous project
+
+Ask Bright
+
+Next project
 
 Sesvenna
