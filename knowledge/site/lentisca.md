@@ -7,25 +7,13 @@ url: https://brightajiboye.com/work/lentisca
 
 Concept Rebuild
 
-Year
-
-'26
-
-Client
-
 Personal study
-
-Role
 
 Front-end development
 
 A design and development study. I rebuilt an existing farm-shop concept for jams, honey and preserves from Puglia to practise 3D, physics and scroll motion on the web. The original idea is not mine.
 
-Live website
-
 © Lentisca
-
-Full case study
 
 ## About this project
 
@@ -57,16 +45,8 @@ Each page loads only the scripts its sections use.
 
 How to keep a motion-heavy site light: split animation into small modules per section, defer anything 3D until the page is usable, and let data drive the visuals instead of exporting dozens of images.
 
-Outcome
-
 A static Astro site with a pantry of 10 product pages. Jar labels are drawn in the browser from product data with three.js, fruit physics run on Matter.js, and both load only after the first paint.
 
-Read full casestudy
-
-Previous project
-
 Verdant
-
-Next project
 
 Website Audit Agent

@@ -7,23 +7,13 @@ url: https://brightajiboye.com/work/prospectpilot
 
 AI Prospecting Agent
 
-Year
-
-'26
-
-Client
-
 Personal product
-
-Role
 
 AI engineering & design
 
 An agent that finds companies worth contacting, builds a cited research dossier on each one, scores the fit, and drafts a grounded first email. Every send passes deterministic policy gates, and anything uncertain goes to a human first.
 
 © ProspectPilot
-
-Full case study
 
 ## Overview
 
@@ -61,12 +51,6 @@ A full mock mode (embedded Postgres, mock LLM, sandbox mailbox) so the whole sys
 
 TypeScript, Next.js, Postgres on Supabase, DeepSeek with Anthropic and OpenAI adapters, Gmail OAuth, Vercel and a containerised worker.
 
-Outcome
-
 A TypeScript monorepo with a Next.js dashboard and a background worker. It researches, scores, writes and sends in controlled sequences. I use it for my own prospecting in architecture and real estate.
-
-Read full casestudy
-
-Next project
 
 LeadPilot

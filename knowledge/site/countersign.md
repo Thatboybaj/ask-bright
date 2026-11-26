@@ -7,15 +7,7 @@ url: https://brightajiboye.com/work/countersign
 
 Brand, website and motion for a payment verification startup
 
-Year
-
-'26
-
-Client
-
 Countersign (self initiated)
-
-Role
 
 Brand, Web design, Development, Motion
 
@@ -41,12 +33,6 @@ A brand that borrows from banknote security printing: guilloche rosettes, a doub
 
 An eleven page Astro site with GSAP motion, a working email Inspector that marks six fraud tells and runs entirely in the browser, a scroll driven replay of the Arup case, and full responsiveness down to 320px.
 
-Read full casestudy
-
-Previous project
-
 Sandline Films
-
-Next project
 
 Verdant
