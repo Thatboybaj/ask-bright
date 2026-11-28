@@ -13,7 +13,11 @@ Web design & dev
 
 An editorial Framer template for architecture practices, built like a set of drawing sheets, with data-driven projects and four custom code components.
 
+Live website
+
 © Sesvenna
+
+Full case study
 
 ## Overview
 
@@ -118,6 +122,8 @@ CMS architecture
 Responsive layouts
 
 Live preview site and marketplace listing
+
+Outcome
 
 An 11-page premium template with a 30+ field project CMS, an altitude-sorted work index and four custom code components, published on the Framer Marketplace.
 

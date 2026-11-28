@@ -15,6 +15,8 @@ An agent that finds companies worth contacting, builds a cited research dossier 
 
 © ProspectPilot
 
+Full case study
+
 ## Overview
 
 ProspectPilot follows one rule: research first, evidence second, outreach last. It discovers companies from permitted sources, maps a decision-maker, and drafts an email that refers only to things it actually observed.
@@ -50,6 +52,8 @@ A full mock mode (embedded Postgres, mock LLM, sandbox mailbox) so the whole sys
 ## Stack
 
 TypeScript, Next.js, Postgres on Supabase, DeepSeek with Anthropic and OpenAI adapters, Gmail OAuth, Vercel and a containerised worker.
+
+Outcome
 
 A TypeScript monorepo with a Next.js dashboard and a background worker. It researches, scores, writes and sends in controlled sequences. I use it for my own prospecting in architecture and real estate.
 

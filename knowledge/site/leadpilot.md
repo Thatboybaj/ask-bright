@@ -15,6 +15,8 @@ An embeddable AI assistant that answers visitor questions only from a company’
 
 © LeadPilot
 
+Full case study
+
 ## Overview
 
 LeadPilot sits on a company’s website as a small chat widget. Visitors ask about pricing, features or security, and it answers from approved pages, cites the source, then moves into a short qualification flow. Every lead, transcript and score lands in the dashboard.
@@ -52,6 +54,8 @@ Overview with grounded-answer rate and unanswered questions, a lead inbox with s
 ## Stack
 
 Python, FastAPI, SQLAlchemy, Postgres with pgvector, React and Vite, Stripe for billing, and a Shadow DOM widget. Deployed on Vercel.
+
+Outcome
 
 A FastAPI backend, a drop-in widget that works on any site and a React dashboard. Answers are grounded and cited, leads are scored by a rules engine you can read, and a person can take over any conversation.
 

@@ -13,7 +13,11 @@ Web design & dev
 
 A bold, editorial Astro template for AI studios, venture builders and product agencies, with a visual CMS, scroll-driven motion and a working showreel.
 
+Live website
+
 © Verdant
+
+Full case study
 
 ## Overview
 
@@ -58,6 +62,8 @@ Word-by-word headlines, image wipes, number counters, smooth scrolling and page 
 Branded preloader on first visit, smart sticky navigation and a full-screen video showreel.
 
 Optimised WebP images, Open Graph, JSON-LD, sitemap, RSS and reduced-motion support.
+
+Outcome
 
 A 13-page Astro template with a visual CMS for ventures, insights, team, services, FAQs and jobs. Zero UI framework on the public site, so it stays fast, with motion that gives it character.
 

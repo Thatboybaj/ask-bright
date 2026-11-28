@@ -19,6 +19,8 @@ View on Contra
 
 © GPN Beat Store
 
+Full case study
+
 ## Overview
 
 I designed and built a conversion-focused website for a music production studio offering beats, mixing & mastering, custom production, and songwriting services. The goal was to create a premium digital presence while enabling artists to license and purchase multiple beats seamlessly.
